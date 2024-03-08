@@ -1,5 +1,4 @@
-
-    <header>
+ <header>
         <h1>👋 ¡Hola! Soy Jesús Muñoz Romero </h1>
     </header>
     <section>
