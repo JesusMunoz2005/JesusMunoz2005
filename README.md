@@ -29,5 +29,5 @@
     <footer>
         <h3>Contacto</h3>
         <p>Correo Electrónico: [munozromerojesus54@gmail.com]</p>
-        <p>Instagram / Blog: [jesussmunoz05]</p>
+        <p>Instagram: [jesussmunoz05]</p>
     </footer>
