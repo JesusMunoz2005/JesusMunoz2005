@@ -14,6 +14,7 @@
     </section>
     <section>
         <ul>
+            <li>[IES Alixar]: [Desarrollo de Aplicaciónes Web]</li>
             <li>[IES Alixar]: [Sistemas Microinformáticos y Redes]</li>
             <li>[IES El majuelo]: [Educación Secundaria Obligatoria]</li>
         </ul>
