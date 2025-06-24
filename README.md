@@ -6,10 +6,16 @@
         <p>Soy un 👨‍💻 desarrollador con sede en Sevilla, apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas tecnologías y contribuir a proyectos de código abierto que desafíen mis habilidades y me permitan aprender y crecer como profesional.</p>
     </section>
     <section>
-        <h2>Lenguajes trabajados</h2>
+        <h2>Lenguajes y tecnologias</h2>
         <ul>
-            <li><strong>[Java]</strong>: Multitud de proyectos y trabajos de clase </li>
-            <li><strong>[HTML y CSS]</strong>: Multitud de proyectos y trabajos de clase </li>
+            <li><strong>[Java]</strong></li>
+            <li><strong>[HTML y CSS]</strong></li>
+            <li><strong>[Angular]</strong></li>
+            <li><strong>[HTML y CSS]</strong></li>
+            <li><strong>[Springboot]</strong></li>
+            <li><strong>[Docker]</strong></li>
+            <li><strong>[Nginx]</strong></li>
+            <li><strong>[MariaDB]</strong></li>
         </ul>
     </section>
     <section>
