@@ -19,6 +19,7 @@
         </ul>
     </section>
     <section>
+        <h2>Formación</h2>
         <ul>
             <li>[IES Alixar]: [Desarrollo de Aplicaciónes Web]</li>
             <li>[IES Alixar]: [Sistemas Microinformáticos y Redes]</li>
